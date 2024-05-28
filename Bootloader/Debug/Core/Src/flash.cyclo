@@ -1,0 +1,6 @@
+../Core/Src/flash.c:46:6:Flash_FwErase	1
+../Core/Src/flash.c:66:12:Update_Config_Erase	2
+../Core/Src/flash.c:87:13:Update_Config_Write	2
+../Core/Src/flash.c:112:6:procFirmwareUpdate	1
+../Core/Src/flash.c:127:13:updateFirmware	4
+../Core/Src/flash.c:164:6:bootloader	6

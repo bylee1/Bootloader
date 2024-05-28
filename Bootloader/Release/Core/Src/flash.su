@@ -1,0 +1,5 @@
+../Core/Src/flash.c:66:12:Update_Config_Erase.isra	32	static
+../Core/Src/flash.c:46:6:Flash_FwErase	32	static
+../Core/Src/flash.c:112:6:procFirmwareUpdate	32	static
+../Core/Src/flash.c:127:13:updateFirmware	40	static
+../Core/Src/flash.c:164:6:bootloader	8	static,ignoring_inline_asm
